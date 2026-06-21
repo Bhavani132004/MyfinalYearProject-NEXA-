@@ -85,21 +85,27 @@ This project aims to:
 ##  System Architecture
 ---
 Voice Input
+       
        ↓
 
 Speech-to-Text (Whisper)
+       
        ↓
 
 Intent Detection
+       
        ↓
 
 Entity Extraction
+       
        ↓
 
 Context Analysis
+       
        ↓
 
 Command Execution
+       
        ↓
 
 Desktop Action
