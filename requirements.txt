@@ -1,0 +1,48 @@
+# Core GUI
+PyQt5==5.15.9
+PyQt5-sip==12.13.0
+
+# Configuration
+python-dotenv==1.0.0
+PyYAML==6.0.1
+
+# Database
+SQLAlchemy==2.0.23
+
+# Data Processing
+numpy
+pandas
+matplotlib
+
+# Machine Learning & NLP
+scikit-learn
+
+# Audio Processing
+librosa
+soundfile
+SpeechRecognition
+pyaudio
+
+# Image Processing
+Pillow==10.1.0
+
+# Text-to-Speech
+pyttsx3==2.90
+
+# Desktop Automation
+pyautogui==0.9.53
+keyboard==0.13.5
+mouse==0.7.1
+
+# Scheduling
+schedule==1.2.0
+
+# Security
+cryptography
+
+# Testing
+pytest
+
+# Notebook Support
+jupyter
+ipykernel

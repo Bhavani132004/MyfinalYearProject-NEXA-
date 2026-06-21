@@ -1,0 +1,26 @@
+{
+  "open_apps": {
+    "notepad": "open notepad",
+    "calculator": "open calculator",
+    "chrome": "open chrome",
+    "firefox": "open firefox",
+    "vscode": "open vscode"
+  },
+  "file_operations": {
+    "create_doc": "create new document",
+    "open_file": "open file",
+    "save_file": "save file",
+    "delete_file": "delete file"
+  },
+  "web_search": {
+    "google": "search google for",
+    "youtube": "search youtube for",
+    "wikipedia": "search wikipedia for"
+  },
+  "system_control": {
+    "shutdown": "shutdown system",
+    "restart": "restart system",
+    "lock": "lock screen",
+    "sleep": "put to sleep"
+  }
+}

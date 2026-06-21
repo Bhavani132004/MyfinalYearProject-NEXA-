@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body { font-family: Arial, sans-serif; background-color: #f4f4f4; }
+        .container { max-width: 800px; margin: 0 auto; padding: 20px; background-color: white; }
+        .header { background-color: #4CAF50; color: white; padding: 20px; }
+        .content { padding: 20px; }
+        table { width: 100%; border-collapse: collapse; margin: 20px 0; }
+        th, td { border: 1px solid #ddd; padding: 12px; text-align: left; }
+        th { background-color: #4CAF50; color: white; }
+        .footer { background-color: #f4f4f4; padding: 10px; text-align: center; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Usage Report - {period}</h1>
+            <p>User: {username}</p>
+            <p>Generated: {date}</p>
+        </div>
+        <div class="content">
+            <h2>Summary</h2>
+            <table>
+                <tr>
+                    <th>Metric</th>
+                    <th>Value</th>
+                </tr>
+                <tr>
+                    <td>Total Commands</td>
+                    <td>{total_commands}</td>
+                </tr>
+                <tr>
+                    <td>Successful Commands</td>
+                    <td>{successful_commands}</td>
+                </tr>
+                <tr>
+                    <td>Failed Commands</td>
+                    <td>{failed_commands}</td>
+                </tr>
+                <tr>
+                    <td>Success Rate</td>
+                    <td>{success_rate}%</td>
+                </tr>
+                <tr>
+                    <td>Most Used Command</td>
+                    <td>{most_used_command}</td>
+                </tr>
+            </table>
+            
+            <h2>Command History</h2>
+            <table>
+                <tr>
+                    <th>Command</th>
+                    <th>Intent</th>
+                    <th>Status</th>
+                    <th>Timestamp</th>
+                </tr>
+                {command_rows}
+            </table>
+        </div>
+        <div class="footer">
+            <p>&copy; 2024 AI Voice Desktop Control.</p>
+        </div>
+    </div>
+</body>
+</html>

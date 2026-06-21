@@ -1,0 +1,21 @@
+{
+  "models": {
+    "intent_classifier": {
+      "model": "facebook/bart-large-mnli",
+      "type": "zero-shot-classification"
+    },
+    "entity_extractor": {
+      "model": "dslim/bert-base-NER",
+      "type": "ner"
+    },
+    "speech_to_text": {
+      "model": "openai/whisper-base",
+      "type": "automatic-speech-recognition"
+    }
+  },
+  "thresholds": {
+    "intent_confidence": 0.7,
+    "entity_confidence": 0.6
+  },
+  "language": "en"
+}

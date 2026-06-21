@@ -1,0 +1,9 @@
+{
+  "theme": "dark",
+  "language": "en",
+  "recording_duration": 5,
+  "confidence_threshold": 0.7,
+  "auto_execute": true,
+  "voice_feedback": true,
+  "aliases": {}
+}

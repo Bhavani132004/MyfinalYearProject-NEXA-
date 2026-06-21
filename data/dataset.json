@@ -1,0 +1,1649 @@
+[
+  {
+    "text": "open chrome",
+    "intent": "open_app",
+    "entities": {
+      "app_name": [
+        "chrome"
+      ]
+    }
+  },
+  {
+    "text": "launch chrome",
+    "intent": "open_app",
+    "entities": {
+      "app_name": [
+        "chrome"
+      ]
+    }
+  },
+  {
+    "text": "start chrome",
+    "intent": "open_app",
+    "entities": {
+      "app_name": [
+        "chrome"
+      ]
+    }
+  },
+  {
+    "text": "run chrome",
+    "intent": "open_app",
+    "entities": {
+      "app_name": [
+        "chrome"
+      ]
+    }
+  },
+  {
+    "text": "open up chrome",
+    "intent": "open_app",
+    "entities": {
+      "app_name": [
+        "chrome"
+      ]
+    }
+  },
+  {
+    "text": "open firefox",
+    "intent": "open_app",
+    "entities": {
+      "app_name": [
+        "firefox"
+      ]
+    }
+  },
+  {
+    "text": "launch firefox",
+    "intent": "open_app",
+    "entities": {
+      "app_name": [
+        "firefox"
+      ]
+    }
+  },
+  {
+    "text": "start firefox",
+    "intent": "open_app",
+    "entities": {
+      "app_name": [
+        "firefox"
+      ]
+    }
+  },
+  {
+    "text": "run firefox",
+    "intent": "open_app",
+    "entities": {
+      "app_name": [
+        "firefox"
+      ]
+    }
+  },
+  {
+    "text": "open notepad",
+    "intent": "open_app",
+    "entities": {
+      "app_name": [
+        "notepad"
+      ]
+    }
+  },
+  {
+    "text": "launch notepad",
+    "intent": "open_app",
+    "entities": {
+      "app_name": [
+        "notepad"
+      ]
+    }
+  },
+  {
+    "text": "start notepad",
+    "intent": "open_app",
+    "entities": {
+      "app_name": [
+        "notepad"
+      ]
+    }
+  },
+  {
+    "text": "run notepad",
+    "intent": "open_app",
+    "entities": {
+      "app_name": [
+        "notepad"
+      ]
+    }
+  },
+  {
+    "text": "open calculator",
+    "intent": "open_app",
+    "entities": {
+      "app_name": [
+        "calculator"
+      ]
+    }
+  },
+  {
+    "text": "launch calculator",
+    "intent": "open_app",
+    "entities": {
+      "app_name": [
+        "calculator"
+      ]
+    }
+  },
+  {
+    "text": "start calculator",
+    "intent": "open_app",
+    "entities": {
+      "app_name": [
+        "calculator"
+      ]
+    }
+  },
+  {
+    "text": "run calculator",
+    "intent": "open_app",
+    "entities": {
+      "app_name": [
+        "calculator"
+      ]
+    }
+  },
+  {
+    "text": "open vscode",
+    "intent": "open_app",
+    "entities": {
+      "app_name": [
+        "vscode"
+      ]
+    }
+  },
+  {
+    "text": "launch vscode",
+    "intent": "open_app",
+    "entities": {
+      "app_name": [
+        "vscode"
+      ]
+    }
+  },
+  {
+    "text": "start vscode",
+    "intent": "open_app",
+    "entities": {
+      "app_name": [
+        "vscode"
+      ]
+    }
+  },
+  {
+    "text": "run vscode",
+    "intent": "open_app",
+    "entities": {
+      "app_name": [
+        "vscode"
+      ]
+    }
+  },
+  {
+    "text": "open visual studio code",
+    "intent": "open_app",
+    "entities": {}
+  },
+  {
+    "text": "launch python IDE",
+    "intent": "open_app",
+    "entities": {}
+  },
+  {
+    "text": "start spotify",
+    "intent": "open_app",
+    "entities": {
+      "app_name": [
+        "spotify"
+      ]
+    }
+  },
+  {
+    "text": "play spotify",
+    "intent": "open_app",
+    "entities": {
+      "app_name": [
+        "spotify"
+      ]
+    }
+  },
+  {
+    "text": "open excel",
+    "intent": "open_app",
+    "entities": {
+      "app_name": [
+        "excel"
+      ]
+    }
+  },
+  {
+    "text": "launch word",
+    "intent": "open_app",
+    "entities": {
+      "app_name": [
+        "word"
+      ]
+    }
+  },
+  {
+    "text": "start powerpoint",
+    "intent": "open_app",
+    "entities": {
+      "app_name": [
+        "powerpoint"
+      ]
+    }
+  },
+  {
+    "text": "run outlook",
+    "intent": "open_app",
+    "entities": {
+      "app_name": [
+        "outlook"
+      ]
+    }
+  },
+  {
+    "text": "open slack",
+    "intent": "open_app",
+    "entities": {
+      "app_name": [
+        "slack"
+      ]
+    }
+  },
+  {
+    "text": "start teams",
+    "intent": "open_app",
+    "entities": {
+      "app_name": [
+        "teams"
+      ]
+    }
+  },
+  {
+    "text": "launch zoom",
+    "intent": "open_app",
+    "entities": {
+      "app_name": [
+        "zoom"
+      ]
+    }
+  },
+  {
+    "text": "open camera",
+    "intent": "open_app",
+    "entities": {
+      "app_name": [
+        "camera"
+      ]
+    }
+  },
+  {
+    "text": "open settings",
+    "intent": "open_app",
+    "entities": {
+      "app_name": [
+        "settings"
+      ]
+    }
+  },
+  {
+    "text": "launch control panel",
+    "intent": "open_app",
+    "entities": {}
+  },
+  {
+    "text": "start cmd",
+    "intent": "open_app",
+    "entities": {}
+  },
+  {
+    "text": "open terminal",
+    "intent": "open_app",
+    "entities": {}
+  },
+  {
+    "text": "open explorer",
+    "intent": "open_app",
+    "entities": {
+      "app_name": [
+        "explorer"
+      ]
+    }
+  },
+  {
+    "text": "launch file manager",
+    "intent": "open_app",
+    "entities": {}
+  },
+  {
+    "text": "start paint",
+    "intent": "open_app",
+    "entities": {
+      "app_name": [
+        "paint"
+      ]
+    }
+  },
+  {
+    "text": "open discord",
+    "intent": "open_app",
+    "entities": {
+      "app_name": [
+        "discord"
+      ]
+    }
+  },
+  {
+    "text": "open steam",
+    "intent": "open_app",
+    "entities": {
+      "app_name": [
+        "steam"
+      ]
+    }
+  },
+  {
+    "text": "launch game",
+    "intent": "open_app",
+    "entities": {}
+  },
+  {
+    "text": "start browser",
+    "intent": "open_app",
+    "entities": {}
+  },
+  {
+    "text": "open edge",
+    "intent": "open_app",
+    "entities": {
+      "app_name": [
+        "edge"
+      ]
+    }
+  },
+  {
+    "text": "launch safari",
+    "intent": "open_app",
+    "entities": {
+      "app_name": [
+        "safari"
+      ]
+    }
+  },
+  {
+    "text": "start adobe reader",
+    "intent": "open_app",
+    "entities": {}
+  },
+  {
+    "text": "open photoshop",
+    "intent": "open_app",
+    "entities": {
+      "app_name": [
+        "photoshop"
+      ]
+    }
+  },
+  {
+    "text": "launch premiere",
+    "intent": "open_app",
+    "entities": {
+      "app_name": [
+        "premiere"
+      ]
+    }
+  },
+  {
+    "text": "open illustrator",
+    "intent": "open_app",
+    "entities": {}
+  },
+  {
+    "text": "start blender",
+    "intent": "open_app",
+    "entities": {
+      "app_name": [
+        "blender"
+      ]
+    }
+  },
+  {
+    "text": "run unity",
+    "intent": "open_app",
+    "entities": {
+      "app_name": [
+        "unity"
+      ]
+    }
+  },
+  {
+    "text": "open android studio",
+    "intent": "open_app",
+    "entities": {}
+  },
+  {
+    "text": "close chrome",
+    "intent": "close_app",
+    "entities": {
+      "app_name": [
+        "chrome"
+      ]
+    }
+  },
+  {
+    "text": "exit chrome",
+    "intent": "close_app",
+    "entities": {
+      "app_name": [
+        "chrome"
+      ]
+    }
+  },
+  {
+    "text": "quit chrome",
+    "intent": "close_app",
+    "entities": {
+      "app_name": [
+        "chrome"
+      ]
+    }
+  },
+  {
+    "text": "kill chrome",
+    "intent": "close_app",
+    "entities": {
+      "app_name": [
+        "chrome"
+      ]
+    }
+  },
+  {
+    "text": "stop chrome",
+    "intent": "close_app",
+    "entities": {
+      "app_name": [
+        "chrome"
+      ]
+    }
+  },
+  {
+    "text": "close firefox",
+    "intent": "close_app",
+    "entities": {
+      "app_name": [
+        "firefox"
+      ]
+    }
+  },
+  {
+    "text": "exit firefox",
+    "intent": "close_app",
+    "entities": {
+      "app_name": [
+        "firefox"
+      ]
+    }
+  },
+  {
+    "text": "quit firefox",
+    "intent": "close_app",
+    "entities": {
+      "app_name": [
+        "firefox"
+      ]
+    }
+  },
+  {
+    "text": "close notepad",
+    "intent": "close_app",
+    "entities": {
+      "app_name": [
+        "notepad"
+      ]
+    }
+  },
+  {
+    "text": "exit notepad",
+    "intent": "close_app",
+    "entities": {
+      "app_name": [
+        "notepad"
+      ]
+    }
+  },
+  {
+    "text": "quit notepad",
+    "intent": "close_app",
+    "entities": {
+      "app_name": [
+        "notepad"
+      ]
+    }
+  },
+  {
+    "text": "close calculator",
+    "intent": "close_app",
+    "entities": {
+      "app_name": [
+        "calculator"
+      ]
+    }
+  },
+  {
+    "text": "exit calculator",
+    "intent": "close_app",
+    "entities": {
+      "app_name": [
+        "calculator"
+      ]
+    }
+  },
+  {
+    "text": "quit calculator",
+    "intent": "close_app",
+    "entities": {
+      "app_name": [
+        "calculator"
+      ]
+    }
+  },
+  {
+    "text": "close vscode",
+    "intent": "close_app",
+    "entities": {
+      "app_name": [
+        "vscode"
+      ]
+    }
+  },
+  {
+    "text": "exit vscode",
+    "intent": "close_app",
+    "entities": {
+      "app_name": [
+        "vscode"
+      ]
+    }
+  },
+  {
+    "text": "quit vscode",
+    "intent": "close_app",
+    "entities": {
+      "app_name": [
+        "vscode"
+      ]
+    }
+  },
+  {
+    "text": "close spotify",
+    "intent": "close_app",
+    "entities": {
+      "app_name": [
+        "spotify"
+      ]
+    }
+  },
+  {
+    "text": "exit word",
+    "intent": "close_app",
+    "entities": {
+      "app_name": [
+        "word"
+      ]
+    }
+  },
+  {
+    "text": "quit excel",
+    "intent": "close_app",
+    "entities": {
+      "app_name": [
+        "excel"
+      ]
+    }
+  },
+  {
+    "text": "stop powerpoint",
+    "intent": "close_app",
+    "entities": {
+      "app_name": [
+        "powerpoint"
+      ]
+    }
+  },
+  {
+    "text": "close outlook",
+    "intent": "close_app",
+    "entities": {
+      "app_name": [
+        "outlook"
+      ]
+    }
+  },
+  {
+    "text": "exit teams",
+    "intent": "close_app",
+    "entities": {
+      "app_name": [
+        "teams"
+      ]
+    }
+  },
+  {
+    "text": "quit zoom",
+    "intent": "close_app",
+    "entities": {
+      "app_name": [
+        "zoom"
+      ]
+    }
+  },
+  {
+    "text": "close camera",
+    "intent": "close_app",
+    "entities": {
+      "app_name": [
+        "camera"
+      ]
+    }
+  },
+  {
+    "text": "close settings",
+    "intent": "close_app",
+    "entities": {
+      "app_name": [
+        "settings"
+      ]
+    }
+  },
+  {
+    "text": "exit control panel",
+    "intent": "close_app",
+    "entities": {}
+  },
+  {
+    "text": "quit cmd",
+    "intent": "close_app",
+    "entities": {}
+  },
+  {
+    "text": "close terminal",
+    "intent": "close_app",
+    "entities": {}
+  },
+  {
+    "text": "close explorer",
+    "intent": "close_app",
+    "entities": {
+      "app_name": [
+        "explorer"
+      ]
+    }
+  },
+  {
+    "text": "exit paint",
+    "intent": "close_app",
+    "entities": {
+      "app_name": [
+        "paint"
+      ]
+    }
+  },
+  {
+    "text": "quit discord",
+    "intent": "close_app",
+    "entities": {
+      "app_name": [
+        "discord"
+      ]
+    }
+  },
+  {
+    "text": "close steam",
+    "intent": "close_app",
+    "entities": {
+      "app_name": [
+        "steam"
+      ]
+    }
+  },
+  {
+    "text": "close browser",
+    "intent": "close_app",
+    "entities": {}
+  },
+  {
+    "text": "exit edge",
+    "intent": "close_app",
+    "entities": {
+      "app_name": [
+        "edge"
+      ]
+    }
+  },
+  {
+    "text": "quit safari",
+    "intent": "close_app",
+    "entities": {
+      "app_name": [
+        "safari"
+      ]
+    }
+  },
+  {
+    "text": "close reader",
+    "intent": "close_app",
+    "entities": {}
+  },
+  {
+    "text": "close photoshop",
+    "intent": "close_app",
+    "entities": {
+      "app_name": [
+        "photoshop"
+      ]
+    }
+  },
+  {
+    "text": "exit premiere",
+    "intent": "close_app",
+    "entities": {
+      "app_name": [
+        "premiere"
+      ]
+    }
+  },
+  {
+    "text": "quit blender",
+    "intent": "close_app",
+    "entities": {
+      "app_name": [
+        "blender"
+      ]
+    }
+  },
+  {
+    "text": "close all windows",
+    "intent": "close_app",
+    "entities": {}
+  },
+  {
+    "text": "search for python tutorials",
+    "intent": "web_search",
+    "entities": {
+      "search_query": [
+        "python tutorials"
+      ]
+    }
+  },
+  {
+    "text": "google climate change",
+    "intent": "web_search",
+    "entities": {
+      "search_query": [
+        "climate change"
+      ]
+    }
+  },
+  {
+    "text": "look up recipes",
+    "intent": "web_search",
+    "entities": {}
+  },
+  {
+    "text": "find best laptops 2024",
+    "intent": "web_search",
+    "entities": {}
+  },
+  {
+    "text": "search youtube for music",
+    "intent": "web_search",
+    "entities": {
+      "search_query": [
+        "music"
+      ]
+    }
+  },
+  {
+    "text": "search web for news",
+    "intent": "web_search",
+    "entities": {
+      "search_query": [
+        "news"
+      ]
+    }
+  },
+  {
+    "text": "browse for funny cats",
+    "intent": "web_search",
+    "entities": {
+      "search_query": [
+        "funny cats"
+      ]
+    }
+  },
+  {
+    "text": "search online for tickets",
+    "intent": "web_search",
+    "entities": {
+      "search_query": [
+        "tickets"
+      ]
+    }
+  },
+  {
+    "text": "who won the game",
+    "intent": "web_search",
+    "entities": {}
+  },
+  {
+    "text": "what is the capital of france",
+    "intent": "web_search",
+    "entities": {}
+  },
+  {
+    "text": "search google for restaurants",
+    "intent": "web_search",
+    "entities": {
+      "search_query": [
+        "restaurants"
+      ]
+    }
+  },
+  {
+    "text": "search bing for images",
+    "intent": "web_search",
+    "entities": {
+      "search_query": [
+        "images"
+      ]
+    }
+  },
+  {
+    "text": "look up weather in london",
+    "intent": "web_search",
+    "entities": {}
+  },
+  {
+    "text": "find pizza near me",
+    "intent": "web_search",
+    "entities": {}
+  },
+  {
+    "text": "search creating a website",
+    "intent": "web_search",
+    "entities": {}
+  },
+  {
+    "text": "google how to cook pasta",
+    "intent": "web_search",
+    "entities": {
+      "search_query": [
+        "how to cook pasta"
+      ]
+    }
+  },
+  {
+    "text": "search youtube for python course",
+    "intent": "web_search",
+    "entities": {
+      "search_query": [
+        "python course"
+      ]
+    }
+  },
+  {
+    "text": "look up movie reviews",
+    "intent": "web_search",
+    "entities": {}
+  },
+  {
+    "text": "search meaning of life",
+    "intent": "web_search",
+    "entities": {}
+  },
+  {
+    "text": "check stock market",
+    "intent": "web_search",
+    "entities": {}
+  },
+  {
+    "text": "search wikipedia for ai",
+    "intent": "web_search",
+    "entities": {
+      "search_query": [
+        "ai"
+      ]
+    }
+  },
+  {
+    "text": "find lyrics to song",
+    "intent": "web_search",
+    "entities": {}
+  },
+  {
+    "text": "search amazon for books",
+    "intent": "web_search",
+    "entities": {
+      "search_query": [
+        "books"
+      ]
+    }
+  },
+  {
+    "text": "shutdown computer",
+    "intent": "system_control",
+    "entities": {}
+  },
+  {
+    "text": "turn off pc",
+    "intent": "system_control",
+    "entities": {}
+  },
+  {
+    "text": "restart system",
+    "intent": "system_control",
+    "entities": {}
+  },
+  {
+    "text": "reboot computer",
+    "intent": "system_control",
+    "entities": {}
+  },
+  {
+    "text": "log out",
+    "intent": "system_control",
+    "entities": {}
+  },
+  {
+    "text": "lock screen",
+    "intent": "system_control",
+    "entities": {}
+  },
+  {
+    "text": "sleep mode",
+    "intent": "system_control",
+    "entities": {}
+  },
+  {
+    "text": "hibernate",
+    "intent": "system_control",
+    "entities": {}
+  },
+  {
+    "text": "turn volume up",
+    "intent": "system_control",
+    "entities": {}
+  },
+  {
+    "text": "increase volume",
+    "intent": "system_control",
+    "entities": {}
+  },
+  {
+    "text": "decrease volume",
+    "intent": "system_control",
+    "entities": {}
+  },
+  {
+    "text": "turn volume down",
+    "intent": "system_control",
+    "entities": {}
+  },
+  {
+    "text": "mute sound",
+    "intent": "system_control",
+    "entities": {}
+  },
+  {
+    "text": "unmute audio",
+    "intent": "system_control",
+    "entities": {}
+  },
+  {
+    "text": "set brightness to 50",
+    "intent": "system_control",
+    "entities": {}
+  },
+  {
+    "text": "increase brightness",
+    "intent": "system_control",
+    "entities": {}
+  },
+  {
+    "text": "decrease brightness",
+    "intent": "system_control",
+    "entities": {}
+  },
+  {
+    "text": "check battery status",
+    "intent": "system_control",
+    "entities": {}
+  },
+  {
+    "text": "show system info",
+    "intent": "system_control",
+    "entities": {}
+  },
+  {
+    "text": "open task manager",
+    "intent": "system_control",
+    "entities": {}
+  },
+  {
+    "text": "start tax manager",
+    "intent": "system_control",
+    "entities": {}
+  },
+  {
+    "text": "open process explorer",
+    "intent": "system_control",
+    "entities": {}
+  },
+  {
+    "text": "check my battery life",
+    "intent": "system_control",
+    "entities": {}
+  },
+  {
+    "text": "tell me system information",
+    "intent": "system_control",
+    "entities": {}
+  },
+  {
+    "text": "how is my battery",
+    "intent": "system_control",
+    "entities": {}
+  },
+  {
+    "text": "switch user",
+    "intent": "system_control",
+    "entities": {}
+  },
+  {
+    "text": "sign out",
+    "intent": "system_control",
+    "entities": {}
+  },
+  {
+    "text": "search for my resume",
+    "intent": "file_search",
+    "entities": {
+      "search_query": [
+        "resume"
+      ]
+    }
+  },
+  {
+    "text": "find the project report",
+    "intent": "file_search",
+    "entities": {
+      "search_query": [
+        "project report"
+      ]
+    }
+  },
+  {
+    "text": "locate finance spreadsheet",
+    "intent": "file_search",
+    "entities": {
+      "search_query": [
+        "finance spreadsheet"
+      ]
+    }
+  },
+  {
+    "text": "search for meeting notes",
+    "intent": "file_search",
+    "entities": {
+      "search_query": [
+        "meeting notes"
+      ]
+    }
+  },
+  {
+    "text": "find python scripts",
+    "intent": "file_search",
+    "entities": {
+      "search_query": [
+        "python scripts"
+      ]
+    }
+  },
+  {
+    "text": "where is my presentation",
+    "intent": "file_search",
+    "entities": {
+      "search_query": [
+        "presentation"
+      ]
+    }
+  },
+  {
+    "text": "look up budget file",
+    "intent": "file_search",
+    "entities": {
+      "search_query": [
+        "budget file"
+      ]
+    }
+  },
+  {
+    "text": "search for images",
+    "intent": "file_search",
+    "entities": {
+      "search_query": [
+        "images"
+      ]
+    }
+  },
+  {
+    "text": "find any pdf files",
+    "intent": "file_search",
+    "entities": {
+      "search_query": [
+        "pdf files"
+      ]
+    }
+  },
+  {
+    "text": "search for document named backup",
+    "intent": "file_search",
+    "entities": {
+      "search_query": [
+        "document named backup"
+      ]
+    }
+  },
+  {
+    "text": "locate the readme file",
+    "intent": "file_search",
+    "entities": {
+      "search_query": [
+        "readme file"
+      ]
+    }
+  },
+  {
+    "text": "find my pictures",
+    "intent": "file_search",
+    "entities": {
+      "search_query": [
+        "pictures"
+      ]
+    }
+  },
+  {
+    "text": "search for videos",
+    "intent": "file_search",
+    "entities": {
+      "search_query": [
+        "videos"
+      ]
+    }
+  },
+  {
+    "text": "where is the desktop folder",
+    "intent": "file_search",
+    "entities": {
+      "search_query": [
+        "desktop folder"
+      ]
+    }
+  },
+  {
+    "text": "look for a file called data",
+    "intent": "file_search",
+    "entities": {}
+  },
+  {
+    "text": "create new folder",
+    "intent": "file_operation",
+    "entities": {}
+  },
+  {
+    "text": "make a directory",
+    "intent": "file_operation",
+    "entities": {}
+  },
+  {
+    "text": "create text file",
+    "intent": "file_operation",
+    "entities": {}
+  },
+  {
+    "text": "new document",
+    "intent": "file_operation",
+    "entities": {}
+  },
+  {
+    "text": "delete this file",
+    "intent": "file_operation",
+    "entities": {}
+  },
+  {
+    "text": "remove folder",
+    "intent": "file_operation",
+    "entities": {}
+  },
+  {
+    "text": "copy file",
+    "intent": "file_operation",
+    "entities": {}
+  },
+  {
+    "text": "move file to documents",
+    "intent": "file_operation",
+    "entities": {}
+  },
+  {
+    "text": "rename file to backup",
+    "intent": "file_operation",
+    "entities": {}
+  },
+  {
+    "text": "list files in download",
+    "intent": "file_operation",
+    "entities": {}
+  },
+  {
+    "text": "show my documents",
+    "intent": "file_operation",
+    "entities": {}
+  },
+  {
+    "text": "open downloads folder",
+    "intent": "file_operation",
+    "entities": {}
+  },
+  {
+    "text": "create backup",
+    "intent": "file_operation",
+    "entities": {}
+  },
+  {
+    "text": "delete rough draft",
+    "intent": "file_operation",
+    "entities": {}
+  },
+  {
+    "text": "copy image to pictures",
+    "intent": "file_operation",
+    "entities": {}
+  },
+  {
+    "text": "move video to videos",
+    "intent": "file_operation",
+    "entities": {}
+  },
+  {
+    "text": "navigate to desktop",
+    "intent": "file_operation",
+    "entities": {}
+  },
+  {
+    "text": "go to music folder",
+    "intent": "file_operation",
+    "entities": {}
+  },
+  {
+    "text": "list directory contents",
+    "intent": "file_operation",
+    "entities": {}
+  },
+  {
+    "text": "make new file",
+    "intent": "file_operation",
+    "entities": {}
+  },
+  {
+    "text": "what time is it",
+    "intent": "time_date",
+    "entities": {}
+  },
+  {
+    "text": "tell me the time",
+    "intent": "time_date",
+    "entities": {}
+  },
+  {
+    "text": "current time",
+    "intent": "time_date",
+    "entities": {}
+  },
+  {
+    "text": "what follows today",
+    "intent": "time_date",
+    "entities": {}
+  },
+  {
+    "text": "what is the date",
+    "intent": "time_date",
+    "entities": {}
+  },
+  {
+    "text": "tell me today's date",
+    "intent": "time_date",
+    "entities": {}
+  },
+  {
+    "text": "current date",
+    "intent": "time_date",
+    "entities": {}
+  },
+  {
+    "text": "day of the week",
+    "intent": "time_date",
+    "entities": {}
+  },
+  {
+    "text": "what day is it",
+    "intent": "time_date",
+    "entities": {}
+  },
+  {
+    "text": "is it monday",
+    "intent": "time_date",
+    "entities": {}
+  },
+  {
+    "text": "set alarm for 7am",
+    "intent": "time_date",
+    "entities": {}
+  },
+  {
+    "text": "timer for 10 minutes",
+    "intent": "time_date",
+    "entities": {}
+  },
+  {
+    "text": "what time is it in london",
+    "intent": "time_date",
+    "entities": {}
+  },
+  {
+    "text": "show calendar",
+    "intent": "time_date",
+    "entities": {}
+  },
+  {
+    "text": "schedule for today",
+    "intent": "time_date",
+    "entities": {}
+  },
+  {
+    "text": "what is the weather",
+    "intent": "weather",
+    "entities": {}
+  },
+  {
+    "text": "weather today",
+    "intent": "weather",
+    "entities": {}
+  },
+  {
+    "text": "is it raining",
+    "intent": "weather",
+    "entities": {}
+  },
+  {
+    "text": "temperature outside",
+    "intent": "weather",
+    "entities": {}
+  },
+  {
+    "text": "weather forecast",
+    "intent": "weather",
+    "entities": {}
+  },
+  {
+    "text": "will it snow tomorrow",
+    "intent": "weather",
+    "entities": {}
+  },
+  {
+    "text": "weather in new york",
+    "intent": "weather",
+    "entities": {}
+  },
+  {
+    "text": "current temperature",
+    "intent": "weather",
+    "entities": {}
+  },
+  {
+    "text": "how hot is it",
+    "intent": "weather",
+    "entities": {}
+  },
+  {
+    "text": "is it sunny",
+    "intent": "weather",
+    "entities": {}
+  },
+  {
+    "text": "play music",
+    "intent": "music_control",
+    "entities": {}
+  },
+  {
+    "text": "pause song",
+    "intent": "music_control",
+    "entities": {}
+  },
+  {
+    "text": "stop music",
+    "intent": "music_control",
+    "entities": {}
+  },
+  {
+    "text": "next track",
+    "intent": "music_control",
+    "entities": {}
+  },
+  {
+    "text": "skip song",
+    "intent": "music_control",
+    "entities": {}
+  },
+  {
+    "text": "previous song",
+    "intent": "music_control",
+    "entities": {}
+  },
+  {
+    "text": "volume up",
+    "intent": "music_control",
+    "entities": {}
+  },
+  {
+    "text": "volume down",
+    "intent": "music_control",
+    "entities": {}
+  },
+  {
+    "text": "mute music",
+    "intent": "music_control",
+    "entities": {}
+  },
+  {
+    "text": "resume playing",
+    "intent": "music_control",
+    "entities": {}
+  },
+  {
+    "text": "play some jazz",
+    "intent": "music_control",
+    "entities": {}
+  },
+  {
+    "text": "play rock music",
+    "intent": "music_control",
+    "entities": {}
+  },
+  {
+    "text": "shuffle playlist",
+    "intent": "music_control",
+    "entities": {}
+  },
+  {
+    "text": "repeat song",
+    "intent": "music_control",
+    "entities": {}
+  },
+  {
+    "text": "play music on youtube",
+    "intent": "music_control",
+    "entities": {}
+  },
+  {
+    "text": "pause the song",
+    "intent": "music_control",
+    "entities": {}
+  },
+  {
+    "text": "skip this track",
+    "intent": "music_control",
+    "entities": {}
+  },
+  {
+    "text": "play some rock",
+    "intent": "music_control",
+    "entities": {}
+  },
+  {
+    "text": "lower the volume",
+    "intent": "music_control",
+    "entities": {}
+  },
+  {
+    "text": "mute the music",
+    "intent": "music_control",
+    "entities": {}
+  },
+  {
+    "text": "start playing jazz",
+    "intent": "music_control",
+    "entities": {}
+  },
+  {
+    "text": "help me",
+    "intent": "help",
+    "entities": {}
+  },
+  {
+    "text": "what can you do",
+    "intent": "help",
+    "entities": {}
+  },
+  {
+    "text": "show commands",
+    "intent": "help",
+    "entities": {}
+  },
+  {
+    "text": "list features",
+    "intent": "help",
+    "entities": {}
+  },
+  {
+    "text": "how to use",
+    "intent": "help",
+    "entities": {}
+  },
+  {
+    "text": "assist me",
+    "intent": "help",
+    "entities": {}
+  },
+  {
+    "text": "i need help",
+    "intent": "help",
+    "entities": {}
+  },
+  {
+    "text": "tell me your capabilities",
+    "intent": "help",
+    "entities": {}
+  },
+  {
+    "text": "what are your functions",
+    "intent": "help",
+    "entities": {}
+  },
+  {
+    "text": "guide me",
+    "intent": "help",
+    "entities": {}
+  },
+  {
+    "text": "hello",
+    "intent": "greetings",
+    "entities": {}
+  },
+  {
+    "text": "hi there",
+    "intent": "greetings",
+    "entities": {}
+  },
+  {
+    "text": "good morning",
+    "intent": "greetings",
+    "entities": {}
+  },
+  {
+    "text": "good evening",
+    "intent": "greetings",
+    "entities": {}
+  },
+  {
+    "text": "hey nexa",
+    "intent": "greetings",
+    "entities": {}
+  },
+  {
+    "text": "hi nexa",
+    "intent": "greetings",
+    "entities": {}
+  },
+  {
+    "text": "good afternoon",
+    "intent": "greetings",
+    "entities": {}
+  },
+  {
+    "text": "how are you",
+    "intent": "greetings",
+    "entities": {}
+  },
+  {
+    "text": "nice to meet you",
+    "intent": "greetings",
+    "entities": {}
+  },
+  {
+    "text": "who are you",
+    "intent": "greetings",
+    "entities": {}
+  },
+  {
+    "text": "what is your name",
+    "intent": "greetings",
+    "entities": {}
+  },
+  {
+    "text": "introduce yourself",
+    "intent": "greetings",
+    "entities": {}
+  }
+]

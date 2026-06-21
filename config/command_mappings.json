@@ -1,0 +1,29 @@
+{
+  "intents": {
+    "open_application": {
+      "description": "Open an application",
+      "examples": ["open notepad", "open chrome"],
+      "action": "open_app"
+    },
+    "close_application": {
+      "description": "Close an application",
+      "examples": ["close notepad", "close window"],
+      "action": "close_app"
+    },
+    "file_operation": {
+      "description": "File operations",
+      "examples": ["create file", "delete file", "save document"],
+      "action": "file_operation"
+    },
+    "web_search": {
+      "description": "Search the web",
+      "examples": ["search for python", "google machine learning"],
+      "action": "search"
+    },
+    "system_control": {
+      "description": "System control",
+      "examples": ["shutdown", "restart", "lock screen"],
+      "action": "system_control"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "authentication": {
+    "max_login_attempts": 5,
+    "session_timeout_minutes": 60,
+    "password_min_length": 6
+  },
+  "encryption": {
+    "algorithm": "pbkdf2_hmac",
+    "iterations": 100000
+  },
+  "voice_authentication": {
+    "enabled": true,
+    "samples_required": 3,
+    "similarity_threshold": 0.7
+  }
+}

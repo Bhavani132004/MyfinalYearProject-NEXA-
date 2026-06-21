@@ -1,0 +1,30 @@
+/* Dashboard Styles */
+
+QMainWindow {
+    background-color: #2b2b2b;
+}
+
+QWidget {
+    background-color: #2b2b2b;
+    color: white;
+}
+
+QLabel {
+    color: white;
+}
+
+QPushButton {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 4px;
+    font-weight: bold;
+}
+
+QPushButton:hover {
+    background-color: #45a049;
+}
+
+QPushButton:pressed {
+    background-color: #3d8

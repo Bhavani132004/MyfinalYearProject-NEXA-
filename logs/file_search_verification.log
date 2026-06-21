@@ -1,0 +1,17 @@
+Phrase                              | Intent       | Action     | Search Term
+-------------------------------------------------------------------------------------
+search for my resume                | file_search  | file_search | resume
+find the project report             | file_search  | file_search | report
+locate finance spreadsheet          | file_search  | file_search | finance
+search for meeting notes            | file_search  | file_search | notes
+find python scripts                 | file_search  | file_search | scripts
+where is my presentation            | file_search  | file_search | presentation
+look up budget file                 | file_search  | file_search | budget
+search for images                   | file_search  | file_search | images
+find any pdf files                  | file_search  | file_search | pdf
+search for document named backup    | file_search  | file_search | backup
+locate the readme file              | file_search  | file_search | readme
+find my pictures                    | file_search  | file_search | pictures
+search for videos                   | file_search  | file_search | videos
+where is the desktop folder         | file_search  | file_search | desktop
+look for a file called data         | file_search  | file_search | data

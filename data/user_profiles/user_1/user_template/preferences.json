@@ -1,0 +1,17 @@
+{
+  "theme": "dark",
+  "language": "en",
+  "recording_duration": 5,
+  "confidence_threshold": 0.7,
+  "auto_execute": true,
+  "voice_feedback": true,
+  "save_history": true,
+  "personalization": true,
+  "microphone_device": "Default",
+  "notification_sound": true,
+  "keyboard_shortcuts": {
+    "start_recording": "Ctrl+M",
+    "stop_recording": "Ctrl+N",
+    "clear_history": "Ctrl+L"
+  }
+}

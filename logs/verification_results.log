@@ -1,0 +1,24 @@
+Phrase                              | Detected Intent | Source         
+---------------------------------------------------------------------------
+what is the weather today           | weather         | rule_based     
+  -> Maps to Action: weather
+is weather raining                  | weather         | rule_based     
+  -> Maps to Action: weather
+is weather raining today            | weather         | rule_based     
+  -> Maps to Action: weather
+what is the temparature outside     | weather         | rule_based     
+  -> Maps to Action: weather
+current temparature                 | weather         | rule_based     
+  -> Maps to Action: weather
+how hot is weather                  | weather         | rule_based     
+  -> Maps to Action: weather
+play some jazz                      | music_control   | rule_based     
+  -> Maps to Action: music
+play rock music                     | music_control   | rule_based     
+  -> Maps to Action: music
+pause song                          | music_control   | rule_based     
+  -> Maps to Action: music
+next track                          | music_control   | rule_based     
+  -> Maps to Action: music
+shuffle playlist                    | music_control   | rule_based     
+  -> Maps to Action: music
