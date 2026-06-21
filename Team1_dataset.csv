@@ -1,0 +1,248 @@
+text,intent,entities
+open chrome,open_app,{'app_name': ['chrome']}
+launch chrome,open_app,{'app_name': ['chrome']}
+start chrome,open_app,{'app_name': ['chrome']}
+run chrome,open_app,{'app_name': ['chrome']}
+open up chrome,open_app,{'app_name': ['chrome']}
+open firefox,open_app,{'app_name': ['firefox']}
+launch firefox,open_app,{'app_name': ['firefox']}
+start firefox,open_app,{'app_name': ['firefox']}
+run firefox,open_app,{'app_name': ['firefox']}
+open notepad,open_app,{'app_name': ['notepad']}
+launch notepad,open_app,{'app_name': ['notepad']}
+start notepad,open_app,{'app_name': ['notepad']}
+run notepad,open_app,{'app_name': ['notepad']}
+open calculator,open_app,{'app_name': ['calculator']}
+launch calculator,open_app,{'app_name': ['calculator']}
+start calculator,open_app,{'app_name': ['calculator']}
+run calculator,open_app,{'app_name': ['calculator']}
+open vscode,open_app,{'app_name': ['vscode']}
+launch vscode,open_app,{'app_name': ['vscode']}
+start vscode,open_app,{'app_name': ['vscode']}
+run vscode,open_app,{'app_name': ['vscode']}
+open visual studio code,open_app,{}
+launch python IDE,open_app,{}
+start spotify,open_app,{'app_name': ['spotify']}
+play spotify,open_app,{'app_name': ['spotify']}
+open excel,open_app,{'app_name': ['excel']}
+launch word,open_app,{'app_name': ['word']}
+start powerpoint,open_app,{'app_name': ['powerpoint']}
+run outlook,open_app,{'app_name': ['outlook']}
+open slack,open_app,{'app_name': ['slack']}
+start teams,open_app,{'app_name': ['teams']}
+launch zoom,open_app,{'app_name': ['zoom']}
+open camera,open_app,{'app_name': ['camera']}
+open settings,open_app,{'app_name': ['settings']}
+launch control panel,open_app,{}
+start cmd,open_app,{}
+open terminal,open_app,{}
+open explorer,open_app,{'app_name': ['explorer']}
+launch file manager,open_app,{}
+start paint,open_app,{'app_name': ['paint']}
+open discord,open_app,{'app_name': ['discord']}
+open steam,open_app,{'app_name': ['steam']}
+launch game,open_app,{}
+start browser,open_app,{}
+open edge,open_app,{'app_name': ['edge']}
+launch safari,open_app,{'app_name': ['safari']}
+start adobe reader,open_app,{}
+open photoshop,open_app,{'app_name': ['photoshop']}
+launch premiere,open_app,{'app_name': ['premiere']}
+open illustrator,open_app,{}
+start blender,open_app,{'app_name': ['blender']}
+run unity,open_app,{'app_name': ['unity']}
+open android studio,open_app,{}
+close chrome,close_app,{'app_name': ['chrome']}
+exit chrome,close_app,{'app_name': ['chrome']}
+quit chrome,close_app,{'app_name': ['chrome']}
+kill chrome,close_app,{'app_name': ['chrome']}
+stop chrome,close_app,{'app_name': ['chrome']}
+close firefox,close_app,{'app_name': ['firefox']}
+exit firefox,close_app,{'app_name': ['firefox']}
+quit firefox,close_app,{'app_name': ['firefox']}
+close notepad,close_app,{'app_name': ['notepad']}
+exit notepad,close_app,{'app_name': ['notepad']}
+quit notepad,close_app,{'app_name': ['notepad']}
+close calculator,close_app,{'app_name': ['calculator']}
+exit calculator,close_app,{'app_name': ['calculator']}
+quit calculator,close_app,{'app_name': ['calculator']}
+close vscode,close_app,{'app_name': ['vscode']}
+exit vscode,close_app,{'app_name': ['vscode']}
+quit vscode,close_app,{'app_name': ['vscode']}
+close spotify,close_app,{'app_name': ['spotify']}
+exit word,close_app,{'app_name': ['word']}
+quit excel,close_app,{'app_name': ['excel']}
+stop powerpoint,close_app,{'app_name': ['powerpoint']}
+close outlook,close_app,{'app_name': ['outlook']}
+exit teams,close_app,{'app_name': ['teams']}
+quit zoom,close_app,{'app_name': ['zoom']}
+close camera,close_app,{'app_name': ['camera']}
+close settings,close_app,{'app_name': ['settings']}
+exit control panel,close_app,{}
+quit cmd,close_app,{}
+close terminal,close_app,{}
+close explorer,close_app,{'app_name': ['explorer']}
+exit paint,close_app,{'app_name': ['paint']}
+quit discord,close_app,{'app_name': ['discord']}
+close steam,close_app,{'app_name': ['steam']}
+close browser,close_app,{}
+exit edge,close_app,{'app_name': ['edge']}
+quit safari,close_app,{'app_name': ['safari']}
+close reader,close_app,{}
+close photoshop,close_app,{'app_name': ['photoshop']}
+exit premiere,close_app,{'app_name': ['premiere']}
+quit blender,close_app,{'app_name': ['blender']}
+close all windows,close_app,{}
+search for python tutorials,web_search,{'search_query': ['python tutorials']}
+google climate change,web_search,{'search_query': ['climate change']}
+look up recipes,web_search,{}
+find best laptops 2024,web_search,{}
+search youtube for music,web_search,{'search_query': ['music']}
+search web for news,web_search,{'search_query': ['news']}
+browse for funny cats,web_search,{'search_query': ['funny cats']}
+search online for tickets,web_search,{'search_query': ['tickets']}
+who won the game,web_search,{}
+what is the capital of france,web_search,{}
+search google for restaurants,web_search,{'search_query': ['restaurants']}
+search bing for images,web_search,{'search_query': ['images']}
+look up weather in london,web_search,{}
+find pizza near me,web_search,{}
+search creating a website,web_search,{}
+google how to cook pasta,web_search,{'search_query': ['how to cook pasta']}
+search youtube for python course,web_search,{'search_query': ['python course']}
+look up movie reviews,web_search,{}
+search meaning of life,web_search,{}
+check stock market,web_search,{}
+search wikipedia for ai,web_search,{'search_query': ['ai']}
+find lyrics to song,web_search,{}
+search amazon for books,web_search,{'search_query': ['books']}
+shutdown computer,system_control,{}
+turn off pc,system_control,{}
+restart system,system_control,{}
+reboot computer,system_control,{}
+log out,system_control,{}
+lock screen,system_control,{}
+sleep mode,system_control,{}
+hibernate,system_control,{}
+turn volume up,system_control,{}
+increase volume,system_control,{}
+decrease volume,system_control,{}
+turn volume down,system_control,{}
+mute sound,system_control,{}
+unmute audio,system_control,{}
+set brightness to 50,system_control,{}
+increase brightness,system_control,{}
+decrease brightness,system_control,{}
+check battery status,system_control,{}
+show system info,system_control,{}
+open task manager,system_control,{}
+start tax manager,system_control,{}
+open process explorer,system_control,{}
+check my battery life,system_control,{}
+tell me system information,system_control,{}
+how is my battery,system_control,{}
+switch user,system_control,{}
+sign out,system_control,{}
+search for my resume,file_search,{'search_query': ['resume']}
+find the project report,file_search,{'search_query': ['project report']}
+locate finance spreadsheet,file_search,{'search_query': ['finance spreadsheet']}
+search for meeting notes,file_search,{'search_query': ['meeting notes']}
+find python scripts,file_search,{'search_query': ['python scripts']}
+where is my presentation,file_search,{'search_query': ['presentation']}
+look up budget file,file_search,{'search_query': ['budget file']}
+search for images,file_search,{'search_query': ['images']}
+find any pdf files,file_search,{'search_query': ['pdf files']}
+search for document named backup,file_search,{'search_query': ['document named backup']}
+locate the readme file,file_search,{'search_query': ['readme file']}
+find my pictures,file_search,{'search_query': ['pictures']}
+search for videos,file_search,{'search_query': ['videos']}
+where is the desktop folder,file_search,{'search_query': ['desktop folder']}
+look for a file called data,file_search,{}
+create new folder,file_operation,{}
+make a directory,file_operation,{}
+create text file,file_operation,{}
+new document,file_operation,{}
+delete this file,file_operation,{}
+remove folder,file_operation,{}
+copy file,file_operation,{}
+move file to documents,file_operation,{}
+rename file to backup,file_operation,{}
+list files in download,file_operation,{}
+show my documents,file_operation,{}
+open downloads folder,file_operation,{}
+create backup,file_operation,{}
+delete rough draft,file_operation,{}
+copy image to pictures,file_operation,{}
+move video to videos,file_operation,{}
+navigate to desktop,file_operation,{}
+go to music folder,file_operation,{}
+list directory contents,file_operation,{}
+make new file,file_operation,{}
+what time is it,time_date,{}
+tell me the time,time_date,{}
+current time,time_date,{}
+what follows today,time_date,{}
+what is the date,time_date,{}
+tell me today's date,time_date,{}
+current date,time_date,{}
+day of the week,time_date,{}
+what day is it,time_date,{}
+is it monday,time_date,{}
+set alarm for 7am,time_date,{}
+timer for 10 minutes,time_date,{}
+what time is it in london,time_date,{}
+show calendar,time_date,{}
+schedule for today,time_date,{}
+what is the weather,weather,{}
+weather today,weather,{}
+is it raining,weather,{}
+temperature outside,weather,{}
+weather forecast,weather,{}
+will it snow tomorrow,weather,{}
+weather in new york,weather,{}
+current temperature,weather,{}
+how hot is it,weather,{}
+is it sunny,weather,{}
+play music,music_control,{}
+pause song,music_control,{}
+stop music,music_control,{}
+next track,music_control,{}
+skip song,music_control,{}
+previous song,music_control,{}
+volume up,music_control,{}
+volume down,music_control,{}
+mute music,music_control,{}
+resume playing,music_control,{}
+play some jazz,music_control,{}
+play rock music,music_control,{}
+shuffle playlist,music_control,{}
+repeat song,music_control,{}
+play music on youtube,music_control,{}
+pause the song,music_control,{}
+skip this track,music_control,{}
+play some rock,music_control,{}
+lower the volume,music_control,{}
+mute the music,music_control,{}
+start playing jazz,music_control,{}
+help me,help,{}
+what can you do,help,{}
+show commands,help,{}
+list features,help,{}
+how to use,help,{}
+assist me,help,{}
+i need help,help,{}
+tell me your capabilities,help,{}
+what are your functions,help,{}
+guide me,help,{}
+hello,greetings,{}
+hi there,greetings,{}
+good morning,greetings,{}
+good evening,greetings,{}
+hey nexa,greetings,{}
+hi nexa,greetings,{}
+good afternoon,greetings,{}
+how are you,greetings,{}
+nice to meet you,greetings,{}
+who are you,greetings,{}
+what is your name,greetings,{}
+introduce yourself,greetings,{}
