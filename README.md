@@ -85,17 +85,17 @@ This project aims to:
 ##  System Architecture
 
 Voice Input
-↓
+       ↓
 Speech-to-Text (Whisper)
-↓
+       ↓
 Intent Detection
-↓
+       ↓
 Entity Extraction
-↓
+       ↓
 Context Analysis
-↓
+       ↓
 Command Execution
-↓
+       ↓
 Desktop Action
 
 ---
@@ -134,33 +134,37 @@ Desktop Action
 ---
 
 ##  Project Structure
+
+```
 AI_Voice_Desktop_Control/
 │
 ├── main.py
 ├── requirements.txt
 │
 ├── data/
-│ ├── database/
-│ ├── logs/
-│ ├── models/
-│ └── user_profiles/
+│   ├── database/
+│   ├── logs/
+│   ├── models/
+│   └── user_profiles/
 │
 ├── resources/
-│ ├── configs/
-│ ├── templates/
-│ └── icons/
+│   ├── configs/
+│   ├── templates/
+│   └── icons/
 │
 ├── src/
-│ ├── auth/
-│ ├── speech_processing/
-│ ├── nlp_processing/
-│ ├── desktop_control/
-│ ├── context_awareness/
-│ ├── database/
-│ ├── gui/
-│ └── core/
+│   ├── auth/
+│   ├── speech_processing/
+│   ├── nlp_processing/
+│   ├── desktop_control/
+│   ├── context_awareness/
+│   ├── database/
+│   ├── gui/
+│   └── core/
 │
 └── scripts/
+```
+
 
 ##  Installation
 
@@ -197,8 +201,11 @@ The NLP engine identifies the user's intent.
 
 # Examples:
 Open Application
+
 File Search
+
 Web Search
+
 System Control
 
 # Step 4: Entity Extraction
@@ -216,19 +223,29 @@ The requested action is executed automatically.
 
 ## Example Commands
 Voice Command	Action
+
 Open Chrome	Launches Chrome
+
 Close Notepad	Closes Notepad
+
 Search AI on Google	Opens browser and searches
+
 Create Folder Projects	Creates folder
+
 Shutdown Computer	Shuts down system
 
 ## Future Enhancements
-Deep Learning-based Intent Classification
-GPT-based Conversational Assistant
-Multi-language Voice Support
-Smart Task Scheduling
-Voice Biometrics Authentication
-Cloud Synchronization
+* Deep Learning-based Intent Classification
+
+* GPT-based Conversational Assistant
+
+* Multi-language Voice Support
+
+* Smart Task Scheduling
+
+* Voice Biometrics Authentication
+
+* Cloud Synchronization
 
 ## Testing
 Run tests using:
@@ -236,9 +253,15 @@ pytest
 
 ## Learning Outcomes
 Through this project:
+
 Implemented Speech Recognition
+
 Built NLP-based Intent Detection
+
 Developed Desktop Automation Features
+
 Created PyQt5 GUI Applications
+
 Integrated Database Management
+
 Applied Software Engineering Principles
